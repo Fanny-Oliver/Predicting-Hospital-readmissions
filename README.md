@@ -1,4 +1,4 @@
-# Presictiong-Hospital-readmissions
+# Predicting-Hospital-readmissions
 This is an entry for the DataCamp competition about Hospital readmissions.
 
 # Reducing hospital readmissions
