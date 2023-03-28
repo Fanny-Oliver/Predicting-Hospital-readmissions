@@ -1,5 +1,5 @@
 # Predicting-Hospital-readmissions
-This is an entry for the DataCamp competition about Hospital readmissions.
+Predicting hospital readmissions using regression models and using the chi-square test for independence to assess if initial diagnosis of diabetes has an influence on readmissions rate.
 
 # Reducing hospital readmissions
 
